@@ -11,7 +11,7 @@
 
 ## 🚀 Projects
 
-### 🔐 [LockMe: Secure File Encryption Desktop App](https://github.com/miiyuh/lockme-encryption-app)
+### 🔐 [LockMe: Secure File Encryption and Decryption Desktop App](https://github.com/miiyuh/lockme)
 - **Description**: A secure desktop application for file encryption and decryption, supported on Windows and Linux.
 - **Features**: AES/RSA encryption, dark mode, key management, cross-platform compatibility
 
