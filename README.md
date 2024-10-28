@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hello, I'm Miiyuh! 👋
 
-<!--
-**miiyuh/miiyuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Forensics student**  
+🔒 Passionate about **cybersecurity** and **software development**  
+🌍 Based in Malaysia  
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miiyuh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miiyuh&layout=compact&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🔐 [LockMe: Secure File Encryption Desktop App](https://github.com/miiyuh/lockme-encryption-app)
+- **Description**: A secure desktop application for file encryption and decryption, supported on Windows and Linux.
+- **Features**: AES/RSA encryption, dark mode, key management, cross-platform compatibility
+
+---
+
+## 🛠 Tech Stack
+- **Languages**: Python, Java, JavaScript
+- **Frameworks**: PyQt, Electron, Flask
+- **Tools**: Git, Figma, Visual Studio Code, Linux
+
+---
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=miiyuh&theme=dracula)
+
+---
+
+## 🌱 About Me
+- 🔍 Always learning about cybersecurity and AI
+- 🎶 Enjoys coding while listening to music
+- 📚 Currently working on my Final Year Project in computer forensics
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miiyuh)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square)](https://your-portfolio-link.com)
+
+---
+
+Thank you for visiting my GitHub profile! 😊 Feel free to reach out or check out my projects.
