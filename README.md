@@ -1,4 +1,4 @@
-# Hello, I'm Miiyuh! 👋
+# Hey, its miiyuh! 👋
 
 🎓 **Computer Forensics student**  
 🔒 Passionate about **cybersecurity** and **software development**  
