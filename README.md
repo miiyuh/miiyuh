@@ -1,11 +1,8 @@
 # Hey, its miiyuh! 👋
 
-🎓 **Computer Forensics student**  
-🔒 Passionate about **cybersecurity** and **software development**  
+🎓 Computer Forensics student 
+🔒 Loves cybersecurity and software development 
 🌍 Based in Malaysia  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miiyuh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miiyuh&layout=compact&theme=radical)  
 
 ---
 
@@ -40,6 +37,3 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miiyuh)  
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square)](https://miiyuh.com)
 
----
-
-Thank you for visiting my GitHub profile! 😊 Feel free to reach out or check out my projects.
