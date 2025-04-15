@@ -19,7 +19,7 @@ degree student, from malaysia :MY:
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=miiyuh&theme=dracula)
+[![miiyuh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miiyuh)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
