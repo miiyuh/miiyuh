@@ -19,7 +19,7 @@ degree student, from malaysia :MY:
 
 ---
 
-[![miiyuh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miiyuh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![miiyuh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miiyuh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
