@@ -1,8 +1,6 @@
-# Hey, its miiyuh! 👋
+# Hey, its miiyuh! 
 
-🎓 Computer Forensics student 
-🔒 Loves cybersecurity and software development 
-🌍 Based in Malaysia  
+degree student, from malaysia :MY:
 
 ---
 
@@ -25,10 +23,10 @@
 
 ---
 
-## 🌱 About Me
-- 🔍 Always learning about cybersecurity and AI
-- 🎶 Enjoys coding while listening to music
-- 📚 Currently working on my Final Year Project in computer forensics
+##  About Me
+- Always learning about cybersecurity and AI
+- Enjoys coding while listening to music
+- Currently working on my Final Year Project in Computer Forensics
 
 ---
 
