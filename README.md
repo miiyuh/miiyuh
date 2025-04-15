@@ -1,10 +1,17 @@
-# Hey, its miiyuh! 
+# hey, its miiyuh! 
 
-degree student, from malaysia :MY:
+degree student, from malaysia :malaysia:
 
 ---
 
-## 🚀 Projects
+## About Me
+- Always learning about cybersecurity and AI
+- Enjoys coding while listening to music
+- Currently working on my Final Year Project in Computer Forensics
+
+---
+
+## Projects
 
 ### 🔐 [LockMe: Secure File Encryption and Decryption Desktop App](https://github.com/miiyuh/lockme)
 - **Description**: A secure desktop application for file encryption and decryption, supported on Windows and Linux.
@@ -12,7 +19,7 @@ degree student, from malaysia :MY:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Languages**: Python, Java, JavaScript
 - **Frameworks**: PyQt, Electron, Flask
 - **Tools**: Git, Figma, Visual Studio Code, Linux
@@ -23,14 +30,7 @@ degree student, from malaysia :MY:
 
 ---
 
-##  About Me
-- Always learning about cybersecurity and AI
-- Enjoys coding while listening to music
-- Currently working on my Final Year Project in Computer Forensics
-
----
-
-## 🔗 Connect with Me
+## Connect with Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miiyuh)  
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square)](https://miiyuh.com)
