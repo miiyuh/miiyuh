@@ -11,27 +11,11 @@ degree student, from malaysia :malaysia:
 
 ---
 
-## Projects
-
-### 🔐 [LockMe: Secure File Encryption and Decryption Desktop App](https://github.com/miiyuh/lockme)
-- **Description**: A secure desktop application for file encryption and decryption, supported on Windows and Linux.
-- **Features**: AES/RSA encryption, dark mode, key management, cross-platform compatibility
-
----
-
 ## Tech Stack
 - **Languages**: Python, Java, JavaScript
-- **Frameworks**: PyQt, Electron, Flask
-- **Tools**: Git, Figma, Visual Studio Code, Linux
+- **Frameworks**: Next.js, TailwindCSS, howler.js, PayloadCMS
+- **Tools**: Git, Figma, Visual Studio Code
 
 ---
 
 [![miiyuh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miiyuh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## Connect with Me
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miiyuh)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square)](https://miiyuh.com)
-
