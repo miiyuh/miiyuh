@@ -32,6 +32,6 @@ degree student, from malaysia :malaysia:
 
 ## Connect with Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miiyuh)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miiyuh)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square)](https://miiyuh.com)
 
